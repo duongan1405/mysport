@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: HUYỀN THOẠI BÓNG ĐÁ	</title>
+	<atom:link href="http://localhost/myproject/wordpress/sport/huyen-thoai-bong-da/feed/" rel="self" type="application/rss+xml" />
+	<link>/mysport/sport/huyen-thoai-bong-da/</link>
+	<description>Trang bóng đá hơi tin cậy</description>
+	<lastBuildDate>Sun, 06 Jun 2021 01:56:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: nguoibinhluan		</title>
+		<link>/mysport/sport/huyen-thoai-bong-da/#comment-25</link>
+
+		<dc:creator><![CDATA[nguoibinhluan]]></dc:creator>
+		<pubDate>Sun, 06 Jun 2021 01:56:51 +0000</pubDate>
+		<guid isPermaLink="false">/mysport/?p=34#comment-25</guid>
+
+					<description><![CDATA[Good !!]]></description>
+			<content:encoded><![CDATA[<p>Good !!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
