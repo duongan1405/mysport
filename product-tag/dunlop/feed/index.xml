@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dunlop &#8211; Dương An</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/dunlop/feed/" rel="self" type="application/rss+xml" />
+	<link>/mysport</link>
+	<description>Trang bóng đá hơi tin cậy</description>
+	<lastBuildDate>Sat, 19 Jun 2021 07:45:26 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Áo thun thể thao nam Dunlop</title>
+		<link>/mysport/product/ao-thun-the-thao-nam-dunlop/</link>
+					<comments>/mysport/product/ao-thun-the-thao-nam-dunlop/#respond</comments>
+		
+		<dc:creator><![CDATA[duongan]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 07:45:26 +0000</pubDate>
+				<guid isPermaLink="false">/mysport/?post_type=product&#038;p=289</guid>
+
+					<description><![CDATA[Áo thun thể thao nam Dunlop được may bằng chất liệu cao cấp, thấm hút tốt mang đến cảm giác thoải mái cho người mặc trong suốt quá trình vận động. Cùng với thiết kế trẻ trung, năng động, sản phẩm vừa có thể tham gia các hoạt động thể thao, vừa thích hợp phối hợp [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Áo thun thể thao nam Dunlop</strong> được may bằng chất liệu cao cấp, thấm hút tốt mang đến cảm giác thoải mái cho người mặc trong suốt quá trình vận động. Cùng với thiết kế trẻ trung, năng động, sản phẩm vừa có thể tham gia các hoạt động thể thao, vừa thích hợp phối hợp với những trang phục khác.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/mysport/product/ao-thun-the-thao-nam-dunlop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

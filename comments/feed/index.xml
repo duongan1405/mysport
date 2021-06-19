@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for Dương An	</title>
+	Bình luận cho Dương An	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/mysport</link>
 	<description>Trang bóng đá hơi tin cậy</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on HUYỀN THOẠI BÓNG ĐÁ by nguoibinhluan		</title>
+		Phản hồi cho HUYỀN THOẠI BÓNG ĐÁ bởi nguoibinhluan		</title>
 		<link>/mysport/sport/huyen-thoai-bong-da/#comment-25</link>
 
 		<dc:creator><![CDATA[nguoibinhluan]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Comment on CHUYỂN ĐỘNG BÓNG ĐÁ by duongan		</title>
+		Phản hồi cho CHUYỂN ĐỘNG BÓNG ĐÁ bởi duongan		</title>
 		<link>/mysport/sport/chuyen-dong-bong-da/#comment-18</link>
 
 		<dc:creator><![CDATA[duongan]]></dc:creator>
