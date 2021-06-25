@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>combo &#8211; aNSport</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/combo/feed/" rel="self" type="application/rss+xml" />
+	<link>/mysport</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Jun 2021 08:40:46 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Combo Hấp Dẫn &#8211; Sôi Động Mùa Hè EURO</title>
+		<link>/mysport/product/combo-hap-dan-soi-dong-mua-he-euro/</link>
+					<comments>/mysport/product/combo-hap-dan-soi-dong-mua-he-euro/#respond</comments>
+		
+		<dc:creator><![CDATA[duongan]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 08:40:45 +0000</pubDate>
+				<guid isPermaLink="false">/mysport/?post_type=product&#038;p=299</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/mysport/product/combo-hap-dan-soi-dong-mua-he-euro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
