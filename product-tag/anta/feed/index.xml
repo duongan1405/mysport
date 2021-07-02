@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anta &#8211; aNSport</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/anta/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duongan1405.github.io/mysport</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:06:30 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Áo thể thao nam Anta &#8211; WHITE</title>
+		<link>https://duongan1405.github.io/mysport/product/ao-the-thao-nam-anta-white/</link>
+					<comments>https://duongan1405.github.io/mysport/product/ao-the-thao-nam-anta-white/#respond</comments>
+		
+		<dc:creator><![CDATA[duongan]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 02:36:01 +0000</pubDate>
+				<guid isPermaLink="false">https://duongan1405.github.io/mysport/?post_type=product&#038;p=574</guid>
+
+					<description><![CDATA[- Kiểu dáng mang phong cách trẻ trung màu sắc khỏe khoắn, cá tính.
+- Giữ ấm tuyệt đối, bảo vệ thân nhiệt cơ thể.
+- Thiết kế cao cấp giúp áo luôn căng mịn, không nhăn và chảy xệ giúp tôn vinh đường nét của cơ thể.
+- Dễ phối hợp với nhiều trang phục và phụ kiện
+- Thích hợp trong các hoạt động thể thao, dã ngoại, tập gym,...]]></description>
+										<content:encoded><![CDATA[<p><strong>Áo thể thao nam Anta</strong> với chất liệu vải cao cấp được thiết kế chuyên biệt cho các hoạt động thể thao, dã ngoại, đi chơi. Chất liệu vải cao cấp, giữ ấm tốt, mang lại cảm giác thoải mái cho bạn trong suốt quá trình hoạt động. Sản phẩm luôn căng mịn, không nhăn và chảy xệ giúp tôn vinh đường nét của cơ thể. Tạo cảm giác thoải mái khi vận động. Sản phẩm ôm sát cơ thể nhưng mềm mịn và ôm sát nhẹ nhàng vào cơ thể nên bạn vẫn cảm thấy rất dễ thở khi tập luyện. Dễ dàng phối hợp với nhiều trang phục và phụ kiện tạo nên cho bạn một phong thời trang thật trẻ trung, năng động.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duongan1405.github.io/mysport/product/ao-the-thao-nam-anta-white/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

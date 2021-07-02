@@ -9,41 +9,13 @@
 	<title>
 	Bình luận cho aNSport	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/mysport</link>
+	<link>https://duongan1405.github.io/mysport</link>
 	<description></description>
-	<lastBuildDate>Sat, 12 Jun 2021 04:46:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 04:52:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Phản hồi cho HUYỀN THOẠI BÓNG ĐÁ bởi nguoibinhluan		</title>
-		<link>/mysport/sport/huyen-thoai-bong-da/#comment-25</link>
-
-		<dc:creator><![CDATA[nguoibinhluan]]></dc:creator>
-		<pubDate>Sun, 06 Jun 2021 01:56:51 +0000</pubDate>
-		<guid isPermaLink="false">/mysport/?p=34#comment-25</guid>
-
-					<description><![CDATA[Good !!]]></description>
-			<content:encoded><![CDATA[<p>Good !!</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho CHUYỂN ĐỘNG BÓNG ĐÁ bởi duongan		</title>
-		<link>/mysport/sport/chuyen-dong-bong-da/#comment-18</link>
-
-		<dc:creator><![CDATA[duongan]]></dc:creator>
-		<pubDate>Sat, 22 May 2021 07:36:26 +0000</pubDate>
-		<guid isPermaLink="false">/mysport/?p=13#comment-18</guid>
-
-					<description><![CDATA[Hello]]></description>
-			<content:encoded><![CDATA[<p>Hello</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

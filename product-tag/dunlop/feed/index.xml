@@ -10,9 +10,9 @@
 <channel>
 	<title>dunlop &#8211; aNSport</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/dunlop/feed/" rel="self" type="application/rss+xml" />
-	<link>/mysport</link>
+	<link>https://duongan1405.github.io/mysport</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:08:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 03:07:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Áo thun thể thao nam Dunlop &#8211; WHITE BLUE</title>
-		<link>/mysport/product/ao-thun-the-thao-nam-dunlop/</link>
-					<comments>/mysport/product/ao-thun-the-thao-nam-dunlop/#respond</comments>
+		<link>https://duongan1405.github.io/mysport/product/ao-thun-the-thao-nam-dunlop/</link>
+					<comments>https://duongan1405.github.io/mysport/product/ao-thun-the-thao-nam-dunlop/#respond</comments>
 		
 		<dc:creator><![CDATA[duongan]]></dc:creator>
 		<pubDate>Sat, 19 Jun 2021 07:45:26 +0000</pubDate>
-				<guid isPermaLink="false">/mysport/?post_type=product&#038;p=289</guid>
+				<guid isPermaLink="false">https://duongan1405.github.io/mysport/?post_type=product&#038;p=289</guid>
 
 					<description><![CDATA[Áo thun thể thao nam Dunlop được may bằng chất liệu cao cấp, thấm hút tốt mang đến cảm giác thoải&#8230;]]></description>
 										<content:encoded><![CDATA[<p><strong>Áo thun thể thao nam Dunlop</strong> được may bằng chất liệu cao cấp, thấm hút tốt mang đến cảm giác thoải mái cho người mặc trong suốt quá trình vận động. Cùng với thiết kế trẻ trung, năng động, sản phẩm vừa có thể tham gia các hoạt động thể thao, vừa thích hợp phối hợp với những trang phục khác.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mysport/product/ao-thun-the-thao-nam-dunlop/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duongan1405.github.io/mysport/product/ao-thun-the-thao-nam-dunlop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

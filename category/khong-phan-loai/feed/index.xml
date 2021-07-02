@@ -8,34 +8,47 @@
 	>
 
 <channel>
-	<title>Dương An &#8211; Dương An</title>
+	<title>Dương An &#8211; aNSport</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link>/mysport</link>
-	<description>Trang bóng đá hơi tin cậy</description>
-	<lastBuildDate>Sat, 15 May 2021 03:50:20 +0000</lastBuildDate>
-	<language>en-US</language>
+	<link>https://duongan1405.github.io/mysport</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Jul 2021 04:44:10 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>/mysport/khong-phan-loai/chao-moi-nguoi/</link>
-					<comments>/mysport/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+		<title>Giày đá bóng của top 10 trung phong hay nhất thế giới 2019 ( phần 2)</title>
+		<link>https://duongan1405.github.io/mysport/khong-phan-loai/giay-da-bong-cua-top-10-trung-phong-hay-nhat-the-gioi-2019-2/</link>
+					<comments>https://duongan1405.github.io/mysport/khong-phan-loai/giay-da-bong-cua-top-10-trung-phong-hay-nhat-the-gioi-2019-2/#respond</comments>
 		
 		<dc:creator><![CDATA[duongan]]></dc:creator>
-		<pubDate>Sat, 15 May 2021 03:50:20 +0000</pubDate>
+		<pubDate>Fri, 02 Jul 2021 04:42:18 +0000</pubDate>
 				<category><![CDATA[Dương An]]></category>
-		<guid isPermaLink="false">/mysport/?p=1</guid>
+		<category><![CDATA[sport]]></category>
+		<category><![CDATA[tintuc]]></category>
+		<guid isPermaLink="false">https://duongan1405.github.io/mysport/?p=669</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
-										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+					<description><![CDATA[Tiếp nối phần trước đây là toàn bộ các cầu thủ còn lại trong top 10 trung phong hay nhất&#8230;]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="https://sportore.com/ezoic/video/embed.go?contentId=cba2768501217c3862ea477ac42b16d527aebb09" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Tiếp nối phần trước đây là toàn bộ các cầu thủ còn lại trong top 10 trung phong hay nhất thế giới 2019.</p>
+<p>&nbsp;</p>
+<h4>6. Edinson Cavani (Nike Phantom Venom)</h4>
+<p><img loading="lazy" class="alignnone size-full wp-image-664" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/b3-4.jpg" alt="" width="1600" height="755" /></p>
+<h4>7. Duván Zapata (Nike Mercurial Superfly VII)</h4>
+<p><img loading="lazy" class="alignnone size-full wp-image-670" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/b4-2.jpg" alt="" width="1600" height="755" /></p>
+<p>&nbsp;</p>
+<h4>8. Alexandre Lacazette (Nike Phantom VSN II)</h4>
+<p><img loading="lazy" class="alignnone size-full wp-image-671" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/b4-3.jpg" alt="" width="1600" height="755" /></p>
+<h4>9. Zlatan Ibrahimović (Puma Future 5.1 Netfit)<img loading="lazy" class="alignnone size-full wp-image-672" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/b4-4.jpg" alt="" width="1310" height="618" /></h4>
+<h4>10. Fabio Quagliarella (Nike Phantom Venom)</h4>
+<p><img loading="lazy" class="alignnone size-full wp-image-664" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/b3-4.jpg" alt="" width="1600" height="755" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mysport/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://duongan1405.github.io/mysport/khong-phan-loai/giay-da-bong-cua-top-10-trung-phong-hay-nhat-the-gioi-2019-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
