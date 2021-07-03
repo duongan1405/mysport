@@ -64,6 +64,7 @@ img.emoji {
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://duongan1405.github.io/mysport/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.4.1" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://duongan1405.github.io/mysport/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.4.1" type="text/css" media="all">
 <style id="woocommerce-inline-inline-css" type="text/css">.woocommerce form .form-row .required { visibility: visible; }</style>
+<link rel="stylesheet" id="yith_wccl_frontend-css" href="https://duongan1405.github.io/mysport/wp-content/plugins/yith-color-and-label-variations-for-woocommerce/assets/css/frontend.css?ver=1.10.3" type="text/css" media="all">
 <link rel="stylesheet" id="shop_starter_parent-css" href="https://duongan1405.github.io/mysport/wp-content/themes/ecommerce-plus/style.css?ver=5.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="ecommerce-plus-fonts-css" href="https://fonts.googleapis.com/css?family=Google+Sans%3A400%2C600%2C700%7CGoogle+SansMuli%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="fontawesome-css" href="https://duongan1405.github.io/mysport/wp-content/themes/ecommerce-plus/css/font-awesome.css?ver=5.7.2" type="text/css" media="all">
@@ -83,6 +84,14 @@ img.emoji {
 					background-position: center center;
 					background-size: cover;
 				}</style>
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}<\/div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}<\/div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}<\/div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.<\/p>
+</script>
 <script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-content/themes/ecommerce-plus/js/bootstrap.js?ver=1" id="bootstrap-js-js"></script>
@@ -956,7 +965,8 @@ img.emoji {
 <option value="giay-asics">Giày Asics (2)</option>
 <option value="giay-nike">Giày Nike (6)</option>
 <option value="giay-puma">Giày Puma (1)</option>
-<option value="giay-the-thao">Giày thể thao (11)</option>              </select>
+<option value="giay-the-thao">Giày thể thao (11)</option>
+<option value="phu-kien-the-thao">Phụ kiện thể thao (1)</option>              </select>
               <input type="hidden" name="post_type" value="product">
               <input class="woo-product-search-input" name="s" type="text" placeholder="Search...">
               <button class="woo-product-search-button" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
@@ -1093,8 +1103,8 @@ img.emoji {
 	<form class="cart" action="https://duongan1405.github.io/mysport/product/bo-thun-ngan-the-thao-nu-emspo/" method="post" enctype="multipart/form-data">
 		
 			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_60dec9d5d06d1">Bộ thun ngắn thể thao nữ Emspo quantity</label>
-		<input type="number" id="quantity_60dec9d5d06d1" class="input-text qty text" step="1" min="1" max="20" name="quantity" value="1" title="Qty" size="4" placeholder="" inputmode="numeric">
+				<label class="screen-reader-text" for="quantity_60dfcc6f7fd69">Bộ thun ngắn thể thao nữ Emspo quantity</label>
+		<input type="number" id="quantity_60dfcc6f7fd69" class="input-text qty text" step="1" min="1" max="20" name="quantity" value="1" title="Qty" size="4" placeholder="" inputmode="numeric">
 			</div>
 	
 		<button type="submit" name="add-to-cart" value="632" class="single_add_to_cart_button button alt">Add to cart</button>
@@ -1182,20 +1192,20 @@ img.emoji {
 		<ul class="products columns-4">
 
 			
-				<li class="product type-product post-611 status-publish first instock product_cat-ao-the-thao product_cat-ao-the-thao-nu product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-anta-white/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-anta-nu-white2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao nữ Anta &#8211; WHITE</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>609,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://duongan1405.github.io/mysport/product/bo-thun-ngan-the-thao-nu-emspo/?add-to-cart=611" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="611" data-product_sku="B302" aria-label="Add &ldquo;Áo thể thao nữ Anta - WHITE&rdquo; to your cart" rel="nofollow">Add to cart</a>	
+				<li class="product type-product post-624 status-publish first instock product_cat-ao-the-thao product_cat-ao-the-thao-nu product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-ibasic-grey/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-ibasic-nu-grey.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao nữ iBasic  &#8211; GREY</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>399,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-ibasic-grey/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="624" data-product_sku="B601" aria-label="Select options for &ldquo;Áo thể thao nữ iBasic  - GREY&rdquo;" rel="nofollow">Select options</a>	
 	<div class="my-yith-wishlist">
 		</div>
 	
 </li>
 
 			
-				<li class="product type-product post-624 status-publish instock product_cat-ao-the-thao product_cat-ao-the-thao-nu product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-ibasic-grey/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-ibasic-nu-grey.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao nữ iBasic  &#8211; GREY</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>399,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-ibasic-grey/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="624" data-product_sku="B601" aria-label="Select options for &ldquo;Áo thể thao nữ iBasic  - GREY&rdquo;" rel="nofollow">Select options</a>	
+				<li class="product type-product post-611 status-publish instock product_cat-ao-the-thao product_cat-ao-the-thao-nu product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nu-anta-white/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-anta-nu-white2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao nữ Anta &#8211; WHITE</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>609,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://duongan1405.github.io/mysport/product/bo-thun-ngan-the-thao-nu-emspo/?add-to-cart=611" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="611" data-product_sku="B302" aria-label="Add &ldquo;Áo thể thao nữ Anta - WHITE&rdquo; to your cart" rel="nofollow">Add to cart</a>	
 	<div class="my-yith-wishlist">
 		</div>
 	
@@ -1224,7 +1234,19 @@ img.emoji {
 		<ul class="products columns-4">
 
 			
-					<li class="product type-product post-574 status-publish first instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-anta product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-simple">
+					<li class="product type-product post-277 status-publish first instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-ao-the-thao product_tag-nike has-post-thumbnail sale shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://duongan1405.github.io/mysport/product/ao-thun-nile-tay-ngan-the-thao-white/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/06/ao-nike-white.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thun Nile tay ngắn thể thao -WHITE</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>620,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>350,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="https://duongan1405.github.io/mysport/product/ao-thun-nile-tay-ngan-the-thao-white/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="277" data-product_sku="B102" aria-label="Select options for &ldquo;Áo thun Nile tay ngắn thể thao -WHITE&rdquo;" rel="nofollow">Select options</a>	
+	<div class="my-yith-wishlist">
+		</div>
+	
+</li>
+
+			
+					<li class="product type-product post-574 status-publish instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-anta product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-nam-anta-white/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-anta-white2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao nam Anta &#8211; WHITE</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>379,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
 </a><a href="https://duongan1405.github.io/mysport/product/bo-thun-ngan-the-thao-nu-emspo/?add-to-cart=574" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="574" data-product_sku="B301" aria-label="Add &ldquo;Áo thể thao nam Anta - WHITE&rdquo; to your cart" rel="nofollow">Add to cart</a>	
@@ -1246,24 +1268,10 @@ img.emoji {
 </li>
 
 			
-					<li class="product type-product post-271 status-publish instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-ao-the-thao product_tag-nike has-post-thumbnail sale shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://duongan1405.github.io/mysport/product/ao-thun-nike-co-tron-the-thao-black/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Sale!</span>
-	<img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/06/ao-nike-black.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thun Nike cổ tròn thể thao &#8211; BLACK</h2>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>620,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>350,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
-</a><a href="https://duongan1405.github.io/mysport/product/ao-thun-nike-co-tron-the-thao-black/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="271" data-product_sku="B101" aria-label="Select options for &ldquo;Áo thun Nike cổ tròn thể thao - BLACK&rdquo;" rel="nofollow">Select options</a>	
-	<div class="my-yith-wishlist">
-		</div>
-	
-</li>
-
-			
-					<li class="product type-product post-289 status-publish last instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-ao-the-thao product_tag-dunlop has-post-thumbnail sale shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://duongan1405.github.io/mysport/product/ao-thun-the-thao-nam-dunlop/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Sale!</span>
-	<img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/06/ao-dunlop-blue.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thun thể thao nam Dunlop &#8211; WHITE BLUE</h2>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>490,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>420,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
-</a><a href="https://duongan1405.github.io/mysport/product/ao-thun-the-thao-nam-dunlop/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="289" data-product_sku="B201" aria-label="Select options for &ldquo;Áo thun thể thao nam Dunlop - WHITE BLUE&rdquo;" rel="nofollow">Select options</a>	
+					<li class="product type-product post-587 status-publish last instock product_cat-ao-the-thao product_cat-ao-the-thao-nam product_tag-ao-the-thao has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://duongan1405.github.io/mysport/product/ao-the-thao-dunlop-buler/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://duongan1405.github.io/mysport/wp-content/uploads/2021/07/ao-dunlop-bluer.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><h2 class="woocommerce-loop-product__title">Áo thể thao Dunlop &#8211; Buler</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>590,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://duongan1405.github.io/mysport/product/bo-thun-ngan-the-thao-nu-emspo/?add-to-cart=587" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="587" data-product_sku="B202" aria-label="Add &ldquo;Áo thể thao Dunlop - Buler&rdquo; to your cart" rel="nofollow">Add to cart</a>	
 	<div class="my-yith-wishlist">
 		</div>
 	
@@ -1302,6 +1310,7 @@ img.emoji {
 <li class="cat-item cat-item-47"><a href="https://duongan1405.github.io/mysport/product-category/giay-the-thao/giay-puma/">Giày Puma</a></li>
 </ul>
 </li>
+<li class="cat-item cat-item-59"><a href="https://duongan1405.github.io/mysport/product-category/phu-kien-the-thao/">Phụ kiện thể thao</a></li>
 </ul></section></aside><!-- #secondary -->
 </div>
 <!-- .page-section -->
@@ -1438,6 +1447,20 @@ var wc_cart_fragments_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/ad
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.4.1" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.4.1" id="wc-add-to-cart-variation-js"></script>
+<script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-content/plugins/yith-color-and-label-variations-for-woocommerce/assets/js/frontend.min.js?ver=1.10.3" id="yith_wccl_frontend-js"></script>
 <script type="text/javascript" src="https://duongan1405.github.io/mysport/wp-content/themes/ecommerce-plus/js/skip-link-focus-fix.js?ver=20201201" id="ecommerce-plus-skip-link-focus-fix-js"></script>
 <script type="text/javascript" id="ecommerce-plus-navigation-js-extra">
 /* <![CDATA[ */
